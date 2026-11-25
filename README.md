@@ -24,8 +24,6 @@ Proyecto académico de una API REST desarrollado con Python y FastAPI.
 
 ## Ejecución
 
-Ejecutar el siguiente comando:
-
 `python -m uvicorn main:app --reload`
 
 ## Endpoint
@@ -36,10 +34,8 @@ Ejecutar el siguiente comando:
 
 ## Respuesta JSON
 
-```json
 {
   "mensaje": "Hola Mundo",
   "lenguaje": "Python",
   "framework": "FastAPI"
 }
-
